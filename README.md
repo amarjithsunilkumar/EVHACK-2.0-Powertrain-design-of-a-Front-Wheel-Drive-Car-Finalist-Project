@@ -1,5 +1,7 @@
 # EVHACK-2.0-Powertrain-design-of-a-Front-Wheel-Drive-Car-Finalist-Project
 
+National EV-technology hackathon (Bosch Global Software Technologies); designed and pitched an EV solution under time constraints in a cross-functional team.
+
 # EVHACK-2.0-Powertrain-design-of-a-Front-Wheel-Drive-Car-Finalist-Project
 
 ## Objective
